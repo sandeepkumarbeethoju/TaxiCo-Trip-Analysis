@@ -40,9 +40,11 @@ This Power BI project analyzes 103K+ TaxiCo trips recorded in June 2024 to uncov
 
 ## 📁 Project Files
 
-- `TaxiCo_report.pbix` – Power BI Dashboard File  
-- `dashboard_screenshot.png` – Visual preview  
-- `dataset_sample.csv` – (Optional) Sample trip dataset for reference
+- `TaxiCo_trip_analysis.pbix` – Power BI Dashboard File  
+- `dashboard_screenshot.png` – 
+- 'Trip Details.xlsx' -
+- 'vehicle_type.xlsx' -
+- `Location Table.xlsx` – 
 
 ---
 
