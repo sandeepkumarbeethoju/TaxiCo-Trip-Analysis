@@ -1,5 +1,5 @@
 
-![Dashboard Preview](TaxiCo_1.png)
+
 
 # TaxiCo-Trip-Analysis
 Power BI project analyzing 103K+ taxi trips to derive location, time, and vehicle-based insights. Built using DAX, custom date tables, and star schema modeling.
@@ -8,6 +8,9 @@ Power BI project analyzing 103K+ taxi trips to derive location, time, and vehicl
 This Power BI project analyzes 103K+ TaxiCo trips recorded in June 2024 to uncover actionable insights related to rider behavior, vehicle performance, payment trends, and location-based activity. It demonstrates end-to-end data analysis, modeling, and visualization using Power BI, DAX, and Power Query.
 
 ---
+![Dashboard Preview](TaxiCo_1.png)
+![Dashboard Preview](TaxiCo_2.png)
+![Dashboard Preview](TaxiCo_3.png)
 
 ## 📊 Project Highlights
 
